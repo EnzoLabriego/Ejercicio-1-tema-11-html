@@ -1,0 +1,23 @@
+.colls {
+    background-color: red;
+}
+
+.col-xs{
+    background-color: blue;
+}
+
+.col-sm{
+    background-color: green;
+}
+
+.col-md{
+    background-color: yellow;
+}
+
+.col-lg{
+    background-color: orange;
+}
+
+.col-xl{
+    background-color: purple;
+}
